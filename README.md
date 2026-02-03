@@ -1,5 +1,3 @@
-# khalidkaram22-
-
 # Hi there, I'm Khalid Karam 👋
 
 I'm a **Mobile App Developer** specializing in **Android development with Kotlin** and **Jetpack Compose**. I also have experience in **Kotlin Multiplatform Mobile (KMM)** and **Flutter**.  
